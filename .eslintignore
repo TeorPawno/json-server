@@ -1,2 +1,6 @@
-src/server/public
-lib
+[
+  {
+    "name": "Red",
+    "dopname": "X2"
+  }
+]
